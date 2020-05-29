@@ -20,7 +20,7 @@ import java.io.File;
 import java.io.IOException;
 
 import io.flutter.Log;
-import io.flutter.app.FlutterActivity;
+import io.flutter.embedding.android.FlutterActivity;
 import io.flutter.plugin.common.MethodCall;
 import io.flutter.plugin.common.MethodChannel;
 import io.flutter.plugin.common.MethodChannel.MethodCallHandler;
